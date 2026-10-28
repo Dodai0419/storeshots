@@ -1,0 +1,22 @@
+{
+  "size": "1290x2796",
+  "out_dir": "stores",
+  "theme": {
+    "text": "#ffffff",
+    "accent": "#1f6b47",
+    "accent2": "#ffe08a",
+    "headline_lines": 2,
+    "device_max_w": 0.66,
+    "platform": "ios",
+    "frame": "black"
+  },
+  "feature": { "headline": "Small habits,\n*every day*" },
+  "images": [
+    { "screenshot": "raw/home.png", "out": "01-today.png",
+      "headline": "Every habit,\n*one glance*", "bg": "#22a88b", "bg2": "#11705f", "pattern": "rings" },
+    { "screenshot": "raw/streaks.png", "out": "02-streaks.png",
+      "headline": "Keep the streak\n*alive*", "bg": "#e3456b", "bg2": "#a3204c", "pattern": "dots" },
+    { "screenshot": "raw/stats.png", "out": "03-stats.png",
+      "headline": "See your week\n*at a glance*", "bg": "#2b2f77", "bg2": "#141640", "pattern": "grid" }
+  ]
+}
